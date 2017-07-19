@@ -1,24 +1,14 @@
-# README
+# JARDINEROS UNIDOS DE MORAVIA
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+_Jarum_ es una organización que nacio del Macroproyecto [Moravia Florece  para la vida](https://www.youtube.com/watch?v=bh5wj2Sx21k) con el fin de continuar con la transformación socio-ambiental urbana. además, posicionarse en el mercado como SEMBRADORES DE VIDA Y DE FUTURO.
 
-Things you may want to cover:
+![TRASNFORMAMOS BASURA EN JARDINES](http://www.eltiempo.com/contenido///colombia/medellin/IMAGEN/IMAGEN-16456099-2.jpg)
 
-* Ruby version
+## Productos
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+*Suculentas
+*Heliconias
+*Plantas aramoticas
+*Lengua de suegra
+*Aromaticas
+Compost orgánico
