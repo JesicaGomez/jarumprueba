@@ -5,5 +5,8 @@ class PrincipalController < ApplicationController
 	def moraviafloreceparalavida
 		
 	end
+	def historia
+		
+	end
 
 end

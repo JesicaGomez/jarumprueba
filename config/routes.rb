@@ -3,4 +3,5 @@ Rails.application.routes.draw do
     root 'principal#index'
     get '/index', to:'principal#index'
     get '/moraviafloreceparalavida', to:'principal#moraviafloreceparalavida'
+    get '/historia', to:'principal#historia'
 end

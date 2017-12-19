@@ -19,12 +19,15 @@
   margin: 0;
   padding: 0;
 }
+p{font-size: 14px}
+h1.titulos{font-size: 18px}
 /*Nav*/
 #logo{
 	display: block;
 	margin:auto;
 	width: 60%;
 }
+
 .dropdown-toggle, .dropdown-menu{
 	background-color: #667C63;
 	color: white;
@@ -32,6 +35,7 @@
 	width: 100%;
 }
 div .dropdown-menu li#dropdown-item a{
+	width: 100%;
 	background-color:white;
     color:#667C63; 
     display:block;
