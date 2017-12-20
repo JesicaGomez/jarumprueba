@@ -12,7 +12,6 @@ _Jarum_ es una organización que nacio del Macroproyecto [Moravia Florece  para 
 * Lengua de suegra
 * Aromaticas
 * Compost orgánico
-=======
-# jarumprueba
+
 
 
